@@ -1,6 +1,6 @@
 {
  "name": "whatsapp-bot-monitor",
- "version": "1.0.0",
+ "version": "0.1.0",
  "description": "Bot para monitorar grupo do WhatsApp e salvar mensagens em Excel",
  "main": "src/index.js",
  "scripts": {
