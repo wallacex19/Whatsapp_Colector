@@ -12,7 +12,7 @@
    "excel",
    "monitoramento"
  ],
- "author": "Seu Nome",
+ "author": "Ariel Wallace",
  "license": "MIT",
  "dependencies": {
    "whatsapp-web.js": "1.22.1",
